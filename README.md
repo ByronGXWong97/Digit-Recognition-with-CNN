@@ -1,5 +1,6 @@
 # Kaggle Project: Digit Recognition using a Convolutional Neural Network
 The MNIST dataset is heralded as the "Hello World!" dataset of computer vision. The goal of this project is to recognize digits (0-9) using a training set of 42,000 handwritten images from the MNIST dataset. To achieve this objective, I built a convolutional neural network (CNN) using Keras.
+<br> <img src="sample_image.png"/><img src="multiclass_distribution.png"/> <br>
 
 # Acknowledgements
 https://www.kaggle.com/kshitijkarnawat/basic-3-layer-neural-network
@@ -13,7 +14,7 @@ https://www.kaggle.com/kanncaa1/convolutional-neural-network-cnn-tutorial
 5) Generate predictions on test set
 
 # Results
-The classification accuracy on the test set exceeds 99%. This placed me in the top 35% of all competition participants. As seen from the confusion matrix below, most images are classifier correctly.
+The classification accuracy on the test set exceeds 99%. This placed me in the top 35% of all competition participants. As seen from the confusion matrix below, most images are classifier correctly.<br>
 <img src="confusion_matrix.png"/>
 
 # Applications and Future Work
