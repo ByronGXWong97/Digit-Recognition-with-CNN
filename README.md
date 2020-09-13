@@ -14,7 +14,7 @@ https://www.kaggle.com/kanncaa1/convolutional-neural-network-cnn-tutorial
 
 # Results
 The classification accuracy on the test set exceeds 99%. This placed me in the top 35% of all competition participants. As seen from the confusion matrix below, most images are classifier correctly.
-!(https://github.com/GuoXuan97/Digit-Recognition-with-CNN/blob/master/confusion_matrix.png?raw=true)
+<img src="confusion_matrix.png"/>
 
 # Applications and Future Work
 Convolutional neural networks are useful in training very complex features that are useful for computer vision. Ideas from this project can be extended to other object recognition / classification tasks including ID authentication, autonomous vehicles and tumour detection.
